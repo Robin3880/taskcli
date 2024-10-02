@@ -1,0 +1,3 @@
+[console_scripts]
+taskcli = taskcli:main
+
